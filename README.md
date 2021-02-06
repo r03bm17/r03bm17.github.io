@@ -1,6 +1,7 @@
 ## Welcome to my first ever website!
 
 **Find some blocs**
+![climbing](/Bamford.jpg)
 
 **Read the blog**
 
